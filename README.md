@@ -2,6 +2,7 @@
 IITB Internship
 Project Title: PixelCNN Implementation for Image Generation
 
+
 **Overview:**
 
 This repository contains an implementation of the PixelCNN model for image generation. PixelCNN is a generative neural network architecture capable of generating images pixel by pixel. This project provides implementations for both grayscale and RGB image generation using the PixelCNN architecture.
@@ -27,6 +28,16 @@ To get started with using this PixelCNN implementation, follow these steps:
 3. Use the provided Jupyter notebooks or Python scripts to train and generate images using the PixelCNN model.
 
 4. Experiment with different model configurations, datasets, and hyperparameters to see how they affect image generation.
+
+
+## Contributors
+
+This project was developed collaboratively by the following contributors:
+
+- **[Shriraj Ravindra Khochage](https://github.com/Shri-15k)** - Data preprocessing, model architecture design, experimentation and evaluation, documentation and reporting, and collaborative problem-solving.
+  
+- **[Samarth Vishnu Adat](https://github.com/SamarthAdat)** - Data collection and preprocessing, implementation of algorithms, model training and optimization, visualization and interpretation, and team collaboration using GitHub.
+
 
 **References:**
 - [PixelCNN using Keras](https://keras.io/examples/generative/pixelcnn/)
